@@ -1,0 +1,14 @@
+D:\uczelnia\Java\AuthorisationManagement\src\main\java\servlets\LoginServ.java
+D:\uczelnia\Java\AuthorisationManagement\src\main\java\domain\User.java
+D:\uczelnia\Java\AuthorisationManagement\src\main\java\filters\ProfileFilter.java
+D:\uczelnia\Java\AuthorisationManagement\src\main\java\filters\LoginFilter.java
+D:\uczelnia\Java\AuthorisationManagement\src\main\java\servlets\RegistrationServ.java
+D:\uczelnia\Java\AuthorisationManagement\src\main\java\servlets\UsersServ.java
+D:\uczelnia\Java\AuthorisationManagement\src\main\java\servlets\PremiumServ.java
+D:\uczelnia\Java\AuthorisationManagement\src\main\java\repositories\UserRepoInterface.java
+D:\uczelnia\Java\AuthorisationManagement\src\main\java\repositories\DataBaseRepo.java
+D:\uczelnia\Java\AuthorisationManagement\src\main\java\filters\PremiumFilter.java
+D:\uczelnia\Java\AuthorisationManagement\src\main\java\filters\GrantPremiumFilter.java
+D:\uczelnia\Java\AuthorisationManagement\src\main\java\domain\Privilege.java
+D:\uczelnia\Java\AuthorisationManagement\src\main\java\servlets\ProfileServ.java
+D:\uczelnia\Java\AuthorisationManagement\src\main\java\repositories\UserRepo.java
